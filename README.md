@@ -2,6 +2,9 @@
 A Cheat Menu for RPG Maker MV and MZ version.
 # CheatMenu
 
+# Preview
+![image alt](https://github.com/MuhAlfa/RPGM_MV-MZ_CheatMenu/blob/3f1749f557886dbf1cea8d2238c95ceaaa29ec89/Screenshot%202026-11-01%20224826.png)
+
 ## Install using .bat
 
 1. Put these two files in the game folder (same folder as `Game.exe`):
